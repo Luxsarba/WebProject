@@ -1,0 +1,5 @@
+python-telegram-bot
+sqlalchemy
+python-dotenv
+matplotlib
+xlsxwriter
